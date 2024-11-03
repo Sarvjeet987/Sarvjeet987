@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%f0%9d%97%a6%f0%9d%97%ae%f0%9d%97%bf%f0%9d%98%83%f0%9d%97%b7%f0%9d%97%b2%f0%9d%97%b2%f0%9d%98%81-%f0%9d%97%9e%f0%9d%98%82%f0%9d%97%ba%f0%9d%97%ae%f0%9d%97%bf-4b0488251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%f0%9d%97%a6%f0%9d%97%ae%f0%9d%97%bf%f0%9d%98%83%f0%9d%97%b7%f0%9d%97%b2%f0%9d%97%b2%f0%9d%98%81-%f0%9d%97%9e%f0%9d%98%82%f0%9d%97%ba%f0%9d%97%ae%f0%9d%97%bf-4b0488251/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%f0%9d%97%a6%f0%9d%97%ae%f0%9d%97%bf%f0%9d%98%83%f0%9d%97%b7%f0%9d%97%b2%f0%9d%97%b2%f0%9d%98%81-%f0%9d%97%9e%f0%9d%98%82%f0%9d%97%ba%f0%9d%97%ae%f0%9d%97%bf-4b0488251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B7%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%81-%F0%9D%97%9E%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF-4b0488251/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100068092726962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvjeet singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sarvjeet_k.s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvjeet_k.s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@techsarvjeet123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techsarvjeet123" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@techsarvjeet123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techsarvjeet123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
