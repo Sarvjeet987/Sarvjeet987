@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/8459e2b0a5d69461a3071ac9b54e33f1950f27007436a6df283c78588f13ba32/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313136373630303139372f766563746f722f66726f6e742d656e642d646576656c6f706d656e742d7765622d62616e6e65722d636f6e636570742e6a70673f733d3137303636376126773d30266b3d323026633d654e6c33577434724468314b5055495035415834546b6d61456b314b5f39434d78446a6c75356b52326d453d)](https://codegrills.in)
+[![MasterHead](https://media.istockphoto.com/id/1343084140/photo/ux-ui-and-programming-development-technology.jpg?s=2048x2048&w=is&k=20&c=9xIqXwTqonWibiQUIKyAF5Ck0OonMZLSZqu59uOfxG4=)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Sarvjeet Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
