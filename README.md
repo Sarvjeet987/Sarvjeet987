@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/𝗦𝗮𝗿𝘃𝗷𝗲𝗲𝘁-𝗞𝘂𝗺𝗮𝗿-4b0488251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B7%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%81-%F0%9D%97%9E%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF-4b0488251/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/𝗦𝗮𝗿𝘃𝗷𝗲𝗲𝘁-𝗞𝘂𝗺𝗮𝗿-4b0488251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarvjeet Kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100068092726962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvjeet singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sarvjeet_k.s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvjeet_k.s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@techsarvjeet123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techsarvjeet123" height="30" width="40" /></a>
