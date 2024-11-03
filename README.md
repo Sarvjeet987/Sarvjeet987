@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/Sarvjeet987](github.com/Sarvjeet987)
+- 👨‍💻 All of my projects are available at [github.com/Sarvjeet987](https://github.com/Sarvjeet987)
 
 - How to reach me **techsarvjeet5456@gmail.com**
 
